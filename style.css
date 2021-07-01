@@ -1,0 +1,26 @@
+            .heading {
+                width: 100%;
+                margin: 0;
+                font-size: 18x;
+                font-family: 'Playfair Display', serif;
+            }
+            
+            .play {
+                margin-top: 10px;
+            }
+            
+            .footer_div {
+                bottom: 0;
+                line-height: 3;
+                width: 100%;
+                position: fixed;
+                background-color: rgb(196, 81, 142);
+                text-align: center;
+                color: white;
+            }
+            
+            canvas {
+                border: 5px solid black;
+                border-radius: 3px;
+                background-color: white;
+            }
